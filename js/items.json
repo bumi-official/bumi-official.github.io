@@ -1,0 +1,68 @@
+[
+    {
+        "product_image": "https://imagizer.imageshack.com/img923/516/CqWgyB.jpg",
+        "product_name": "JAMBI SERIES",
+        "product_price": "Rp 195.000",
+        "description": {
+            "size": "120 X 120",
+            "bahan": "Voal Ultrafine",
+            "finishing": "Cutting Laser",
+            "packaging": "Pouch"
+        }
+    },
+    {
+        "product_image": "https://imagizer.imageshack.com/img924/3403/SzB1yD.jpg",
+        "product_name": "MONARKI SERIES",
+        "product_price": "Rp 195.000",
+        "description": {
+            "size": "120 X 120",
+            "bahan": "Voal Ultrafine",
+            "finishing": "Cutting Laser",
+            "packaging": "Pouch"
+        }
+    },
+    {
+        "product_image": "https://imagizer.imageshack.com/img923/9205/83pEOy.jpg",
+        "product_name": "SLANGUN SERIES",
+        "product_price": "Rp 195.000",
+        "description": {
+            "size": "120 X 120",
+            "bahan": "Voal Ultrafine",
+            "finishing": "Cutting Laser",
+            "packaging": "Pouch"
+        }
+    },
+    {
+        "product_image": "https://imagizer.imageshack.com/img923/3290/t7Yhae.jpg",
+        "product_name": "KEMBANG SERIES",
+        "product_price": "Rp 195.000",
+        "description": {
+            "size": "120 X 120",
+            "bahan": "Voal Ultrafine",
+            "finishing": "Cutting Laser",
+            "packaging": "Pouch"
+        }
+    },
+    {
+        "product_image": "https://imagizer.imageshack.com/img923/6877/BWTQzc.jpg",
+        "product_name": "PUAR SERIES",
+        "product_price": "Rp 195.000",
+        "description": {
+            "size": "120 X 120",
+            "bahan": "Voal Ultrafine",
+            "finishing": "Cutting Laser",
+            "packaging": "Pouch"
+        }
+    },
+    {
+        "product_image": "https://imagizer.imageshack.com/img922/802/NdlO1s.jpg",
+        "product_name": "FLORAL SERIES",
+        "product_price": "Rp 205.000",
+        "description": {
+            "size": "120 X 120",
+            "bahan": "Voal Ultrafine",
+            "finishing": "Cutting Laser",
+            "packaging": "Pouch"
+        }
+    }
+]
